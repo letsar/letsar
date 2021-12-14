@@ -17,5 +17,3 @@ I'm working on my packages on my free-time, but I don't have as much time as I w
 ### Github Stats
 
 [![Romain's Github Stats](https://github-readme-stats.vercel.app/api?username=letsar&count_private=true&theme=default&show_icons=true)](https://github.com/letsar)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=letsar.letsar)
